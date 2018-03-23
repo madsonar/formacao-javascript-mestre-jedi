@@ -1,12 +1,13 @@
-# Curso de JavaScript Completo - FORMAÇÃO JAVASCRIPT MESTRE JEDI - 2018
+# Curso de JavaScript Completo - 
+# FORMAÇÃO JAVASCRIPT MESTRE JEDI - 2018
 
-## DESENVOLVA 8 PROJETOS com ES6, NodeJS, JQuery, TypeScript, Angular, React, Vue e Ember. 
+- DESENVOLVA 8 PROJETOS com ES6, NodeJS, JQuery, TypeScript, Angular, React, Vue e Ember. 
 
-## LANÇAMENTO DE NOVAS AULAS DIARIAMENTE! 
+-  LANÇAMENTO DE NOVAS AULAS DIARIAMENTE! 
 
 [Ganhe um DESCONTO DE 80% em sua INSCRIÇÃO AGORA!](https://www.udemy.com/curso-de-javascript-completo-formacao-mestre-jedi-javascript/?couponCode=LANCAMENTO-80-DESCON)
 
-##Descrição
+## Descrição
 
 Com crescentes atualizações na especificação 262 da ECMAScript com ES5, ES6 e ESNext, a linguagem de programação JavaScript esta ganhando bastante espaço entre os desenvolvedores e empresas, tem apresentado novas features que diminui a curva de aprendizagem da linguagem, tornando o processo de desenvolvimento mais ágil, principalmente para desenvolvedores oriundos de linguagens como JAVA, C#, C++, PHP dentre outras que fazem uso do paradigma de programação orientado a objetos.
 
@@ -16,11 +17,11 @@ JavaScript é um mundo a ser explorado, desde o lançamento do popular framework
 
 Esta formação completa em JavaScript irá apresentar novos horizontes para os devolvedores Web, que terão a oportunidades de desenvolver projetos JavaScript como Full Stack, obtendo a visão back-end com NodeJs e front-end com ES6, JQuery, Bootstrap, TypeScript, Angular, React, Vue e Ember.
 
-##Quais são os requisitos?
+## Quais são os requisitos?
 
 Qualquer pessoa que tenha um conhecimento básico em HTML e CSS está apto a fazer este curso e tornra-se um Mestre Jedi em JavaScript.
 
-##O que serei capaz de fazer depois deste curso?
+## O que serei capaz de fazer depois deste curso?
 
 Ao concluir este curso, o aluno que inciou como um pequeno Padawan terá se tornado um grande Mestre Jedi, irá fazer uso da Força JS aplicando em seu dia a dia para manter e desenvolver aplicativos modernos, manuteníveis e escalável.
 Irá ter aprendido a desenvolver uma aplicação COMPLETA 100% JavaScript no Front-End e Back-End, fazendo uso das tecnologias JavaScript, HTML5, CSS3, Node JS e os framworks front-end mais utilizados no mercado, como JQuery, NodeJS, Angular, React, Vue e Ember.
@@ -60,10 +61,10 @@ Projeto Vue
 Ember Essencial
 Projeto Ember
 
-##Qual é o público-alvo?
+## Qual é o público-alvo?
 
 Todas as pessoas que apreciam desenvolvimento de aplicações modernas devem realizar este curso, jus que o JavaScript esta presente em websites, aplicativos híbridos mobile, implementações back-end, aplicações desktop dentre um universo de tecnologias que fazem uso de JavaScript, HTML5 e CSS3.
 
 
-##Instrutor
+## Instrutor
 Prof. Madson Aguiar Rodrigues
