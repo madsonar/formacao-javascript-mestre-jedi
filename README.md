@@ -20,11 +20,11 @@ Esta formação completa em JavaScript irá apresentar novos horizontes para os 
 
 ## Quais são os requisitos?
 
-Qualquer pessoa que tenha um conhecimento básico em HTML e CSS está apto a fazer este curso e tornra-se um Mestre Jedi em JavaScript.
+Qualquer pessoa que tenha um conhecimento básico em HTML e CSS está apto a fazer este curso e tornar-se um Mestre Jedi em JavaScript.
 
 ## O que serei capaz de fazer depois deste curso?
 
-Ao concluir este curso, o aluno que inciou como um pequeno Padawan terá se tornado um grande Mestre Jedi, irá fazer uso da Força JS aplicando em seu dia a dia para manter e desenvolver aplicativos modernos, manuteníveis e escalável.
+Ao concluir este curso, o aluno que inciou como um pequeno Padawan terá se tornado um grande Mestre Jedi, irá fazer uso da Força JS aplicando em seu dia a dia para manter e desenvolver aplicativos modernos, manuteníveis e escaláveis.
 Irá ter aprendido a desenvolver uma aplicação COMPLETA 100% JavaScript no Front-End e Back-End, fazendo uso das tecnologias JavaScript, HTML5, CSS3, Node JS e os framworks front-end mais utilizados no mercado, como JQuery, NodeJS, Angular, React, Vue e Ember.
 
 ## Grade
