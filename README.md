@@ -12,11 +12,11 @@
 
 Com crescentes atualizações na especificação 262 da ECMAScript com ES5, ES6 e ESNext, a linguagem de programação JavaScript esta ganhando bastante espaço entre os desenvolvedores e empresas, tem apresentado novas features que diminui a curva de aprendizagem da linguagem, tornando o processo de desenvolvimento mais ágil, principalmente para desenvolvedores oriundos de linguagens como JAVA, C#, C++, PHP dentre outras que fazem uso do paradigma de programação orientado a objetos.
 
-Conforme publicado em janeiro/2018 o índice TIOBE que aponta as linguagens mais populares na WEB, o JavaScript cresceu mais uma posição em no rank, saltando da 7ª para a 6ª linguagem de programação mais pesquisada dentre os desenvolvedores do mundo inteiro, o que mostrar o enorme sucesso da linguagem.
+Conforme publicado em janeiro/2018 o índice TIOBE que aponta as linguagens mais populares na WEB, o JavaScript cresceu mais uma posição no rank, saltando da 7ª para a 6ª linguagem de programação mais pesquisada dentre os desenvolvedores do mundo inteiro, o que mostra o enorme sucesso da linguagem.
 
-JavaScript é um mundo a ser explorado, desde o lançamento do popular framework JQuery em 2006 pelo John Resig, a linguagem tem tomado novos horizontes, como surgimento de vários frameworks impressionantes como o NodeJS, Angular, React, Vue, Ember dentre outros. 
+JavaScript é um mundo a ser explorado, desde o lançamento do popular framework JQuery em 2006 pelo John Resig, a linguagem tem tomado novos horizontes, com o surgimento de vários frameworks impressionantes como o NodeJS, Angular, React, Vue, Ember dentre outros. 
 
-Esta formação completa em JavaScript irá apresentar novos horizontes para os devolvedores Web, que terão a oportunidades de desenvolver projetos JavaScript como Full Stack, obtendo a visão back-end com NodeJs e front-end com ES6, JQuery, Bootstrap, TypeScript, Angular, React, Vue e Ember.
+Esta formação completa em JavaScript irá apresentar novos horizontes para os devolvedores Web, que terão oportunidades de desenvolver projetos JavaScript como Full Stack, obtendo a visão back-end com NodeJs e front-end com ES6, JQuery, Bootstrap, TypeScript, Angular, React, Vue e Ember.
 
 ## Quais são os requisitos?
 
