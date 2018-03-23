@@ -1,5 +1,5 @@
-# Curso de JavaScript Completo - 
 # FORMAÇÃO JAVASCRIPT MESTRE JEDI - 2018
+# Curso de JavaScript Completo
 
 - DESENVOLVA 8 PROJETOS com ES6, NodeJS, JQuery, TypeScript, Angular, React, Vue e Ember. 
 
@@ -26,40 +26,42 @@ Qualquer pessoa que tenha um conhecimento básico em HTML e CSS está apto a faz
 Ao concluir este curso, o aluno que inciou como um pequeno Padawan terá se tornado um grande Mestre Jedi, irá fazer uso da Força JS aplicando em seu dia a dia para manter e desenvolver aplicativos modernos, manuteníveis e escalável.
 Irá ter aprendido a desenvolver uma aplicação COMPLETA 100% JavaScript no Front-End e Back-End, fazendo uso das tecnologias JavaScript, HTML5, CSS3, Node JS e os framworks front-end mais utilizados no mercado, como JQuery, NodeJS, Angular, React, Vue e Ember.
 
-Introdução ao Git/GitHub
-Sintaxe, estrutura léxica, identificadores, variáveis e comentários
-Tipos de dados, escopo, literais, conversão de dados e caracteres de escape
-Estruturas condicionais
-Estruturas de repetição (Loop)
-Operadores aritméticos, atribuição, comparação e outros
-Dominar Array
-Dominar Objetos
-Dominar funções
-ES6 e Next
-POO
-DOM e BOM API Browser
-Eventos e manipuladores
-Ajax
-Debug
-Testes
-Expressões Regulares
-Boas práticas
-Webpack Essencial
-NodeJs e API
-Projeto NodeJS - API
-Projeto JavaScript ES6/NEXT
-JQuery Essencial
-Projeto JQuery
-TypeScript Essencial
-Projeto TypeScript
-Angular Essencial
-Projeto Angular
-React Essencial
-Projeto React
-Vue Essencial
-Projeto Vue
-Ember Essencial
-Projeto Ember
+## Grade
+- Introdução ao Git/GitHub
+- Sintaxe, estrutura léxica, identificadores, variáveis e comentários
+- Tipos de dados, escopo, literais, conversão de dados e caracteres de escape
+- Estruturas condicionais
+- Estruturas de repetição (Loop)
+- Operadores aritméticos, atribuição, comparação e outros
+- Dominar Array
+- Dominar Objetos
+- Dominar funções
+- ES6 e Next
+- POO
+- DOM e BOM API Browser
+- Eventos e manipuladores
+- Ajax
+- Debug
+- Testes
+- Expressões Regulares
+- Boas práticas
+- Webpack Essencial
+- NodeJs e API
+- Projeto NodeJS - API
+- Projeto JavaScript ES6/NEXT
+- JQuery Essencial
+- Projeto JQuery
+- TypeScript Essencial
+- Projeto TypeScript
+- Angular Essencial
+- Projeto Angular
+- React Essencial
+- Projeto React
+- Vue Essencial
+- Projeto Vue
+- Ember Essencial
+- Projeto Ember
+- E muitos mais... :)
 
 ## Qual é o público-alvo?
 
