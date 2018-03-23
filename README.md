@@ -1,5 +1,5 @@
 # FORMAÇÃO JAVASCRIPT MESTRE JEDI - 2018
-[!FORMAÇÃO JAVASCRIPT MESTRE JEDI - 2018(http://www.digitalcodigos.com.br/img-curso-js-v7-750-422.png)]
+[![FORMAÇÃO JAVASCRIPT MESTRE JEDI - 2018](http://www.digitalcodigos.com.br/img-curso-js-v7-750-422.png)]
 
 # Curso de JavaScript Completo
 - DESENVOLVA 8 PROJETOS com ES6, NodeJS, JQuery, TypeScript, Angular, React, Vue e Ember. 
