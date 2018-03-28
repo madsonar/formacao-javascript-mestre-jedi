@@ -62,7 +62,8 @@ Irá ter aprendido a desenvolver uma aplicação COMPLETA 100% JavaScript no Fro
 - Projeto Vue
 - Ember Essencial
 - Projeto Ember
-- E muitos mais... :)
+- E muitos mais... 
+- :)
 
 ## Qual é o público-alvo?
 
