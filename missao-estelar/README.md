@@ -2,7 +2,7 @@
 
 Olá Jovem Nerd Padawan!
 
- Seja bem-vindo a equipe estratégica de planejamento para missões JS.
+   Seja bem-vindo a equipe estratégica para Missões Estelares JS.
 O objetivo de nossas missões é fazer você vivenciar a prática e aventuras JS, desta forma você irá aprender a controlar a força JS para que ela sempre esteja com você!!!
 
 Faça um Fork do projeto Formação JavaScript Mestre Jedi e faça parte de nossa equipe.
