@@ -1,4 +1,4 @@
-## Missão Estelar JavaScript Mestre Jedi
+# Missão Estelar JavaScript Mestre Jedi
 
 Olá Jovem Nerd Padawan!
 
@@ -7,7 +7,7 @@ O objetivo de nossas missões é fazer você vivenciar a prática e aventuras JS
 
 Faça um Fork do projeto Formação JavaScript Mestre Jedi e faça parte de nossa equipe.
 
-# Integrante da missão estelar (Informe seu GitHub e faça um Pull Request) 466f726d61e7e36f204a617661536372697074204d6573747265204a656469
+## Integrante da missão estelar (Informe seu GitHub e faça um Pull Request) 466f726d61e7e36f204a617661536372697074204d6573747265204a656469
 
 - https://github.com/madsonar
 - https://github.com/alunojsjedi
