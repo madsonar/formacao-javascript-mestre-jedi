@@ -69,6 +69,24 @@ Irá ter aprendido a desenvolver uma aplicação COMPLETA 100% JavaScript no Fro
 
 Todas as pessoas que apreciam desenvolvimento de aplicações modernas devem realizar este curso, jus que o JavaScript esta presente em websites, aplicativos híbridos mobile, implementações back-end, aplicações desktop dentre um universo de tecnologias que fazem uso de JavaScript, HTML5 e CSS3.
 
+## Desenvolvimento de 8 PROJETOS com Bootstrap, ES6, Node.js, JQuery, TypeScript, Angular, React, Vue e Ember
+
+- 1º Projeto: Home Page de portfólio de serviços com  (Bootstrap, ES6 e Node.js)  + (CRUD completo para cadastro de portfólio);
+
+- 2º Projeto: Sistema de login para autenticação de usuário em painel administrativo com (JQuery e Node.js) + (CRUD completo cadastro de usuário);
+
+- 3º Projeto: Mapa geográfico de clientes com (TypeScript, API Google Maps e Node.js) + (CRUD completo cadastro de cliente);
+
+- 4º Projeto: Galeria de imagens com (Angular e Node.js) + (CRUD completo cadastro de imagem;
+
+- 5º Projeto: Home Page de produto com carrinho de compra com (React e Node.js) + (CRUD completo cadastro de produto);
+
+- 6º Projeto: Galeria de vídeo com (Vue e Node.js) + (CRUD completo cadastro de vídeo);
+
+- 7º Projeto: Blog de notícias com (Ember e Node.js) + (CRUD completo cadastro de notícias);
+
+- 8º Projeto: Criando uma API Node.js com Express e MongoDB;
+
 
 ## Instrutor
 Prof. Madson Aguiar Rodrigues
