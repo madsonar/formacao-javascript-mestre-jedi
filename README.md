@@ -10,13 +10,13 @@
 
 ## Descrição
 
-Com crescentes atualizações na especificação 262 da ECMAScript com ES5, ES6 e ESNext, a linguagem de programação JavaScript esta ganhando bastante espaço entre os desenvolvedores e empresas, tem apresentado novas features que diminui a curva de aprendizagem da linguagem, tornando o processo de desenvolvimento mais ágil, principalmente para desenvolvedores oriundos de linguagens como JAVA, C#, C++, PHP dentre outras que fazem uso do paradigma de programação orientado a objetos.
+Com crescentes atualizações na especificação 262 da ECMAScript com ES5, ES6 e ESNext, a linguagem de programação JavaScript está ganhando bastante espaço entre os desenvolvedores e empresas, tem apresentado novas features que diminui a curva de aprendizagem da linguagem, tornando o processo de desenvolvimento mais ágil, principalmente para desenvolvedores oriundos de linguagens como JAVA, C#, C++, PHP dentre outras que fazem uso do paradigma de programação orientado a objetos.
 
 Conforme publicado em janeiro/2018 o índice TIOBE que aponta as linguagens mais populares na WEB, o JavaScript cresceu mais uma posição no rank, saltando da 7ª para a 6ª linguagem de programação mais pesquisada dentre os desenvolvedores do mundo inteiro, o que mostra o enorme sucesso da linguagem.
 
 JavaScript é um mundo a ser explorado, desde o lançamento do popular framework JQuery em 2006 pelo John Resig, a linguagem tem tomado novos horizontes, com o surgimento de vários frameworks impressionantes como o NodeJS, Angular, React, Vue, Ember dentre outros. 
 
-Esta formação completa em JavaScript irá apresentar novos horizontes para os devolvedores Web, que terão oportunidades de desenvolver projetos JavaScript como Full Stack, obtendo a visão back-end com NodeJs e front-end com ES6, JQuery, Bootstrap, TypeScript, Angular, React, Vue e Ember.
+Esta formação completa em JavaScript irá apresentar novos horizontes para os desenvolvedores Web, que terão oportunidades de desenvolver projetos JavaScript como Full Stack, obtendo a visão back-end com NodeJs e front-end com ES6, JQuery, Bootstrap, TypeScript, Angular, React, Vue e Ember.
 
 ## Quais são os requisitos?
 
@@ -24,7 +24,7 @@ Qualquer pessoa que tenha um conhecimento básico em HTML e CSS está apto a faz
 
 ## O que serei capaz de fazer depois deste curso?
 
-Ao concluir este curso, o aluno que inciou como um pequeno Padawan terá se tornado um grande Mestre Jedi, irá fazer uso da Força JS aplicando em seu dia a dia para manter e desenvolver aplicativos modernos, manuteníveis e escaláveis.
+Ao concluir este curso, o aluno que iniciou como um pequeno Padawan terá se tornado um grande Mestre Jedi, irá fazer uso da Força JS aplicando em seu dia a dia para manter e desenvolver aplicativos modernos, manuteníveis e escaláveis.
 Irá ter aprendido a desenvolver uma aplicação COMPLETA 100% JavaScript no Front-End e Back-End, fazendo uso das tecnologias JavaScript, HTML5, CSS3, Node JS e os frameworks front-end mais utilizados no mercado, como JQuery, NodeJS, Angular, React, Vue e Ember.
 
 ## Grade
@@ -67,7 +67,7 @@ Irá ter aprendido a desenvolver uma aplicação COMPLETA 100% JavaScript no Fro
 
 ## Qual é o público-alvo?
 
-Todas as pessoas que apreciam desenvolvimento de aplicações modernas devem realizar este curso, jus que o JavaScript esta presente em websites, aplicativos híbridos mobile, implementações back-end, aplicações desktop dentre um universo de tecnologias que fazem uso de JavaScript, HTML5 e CSS3.
+Todas as pessoas que apreciam desenvolvimento de aplicações modernas devem realizar este curso, jus que o JavaScript está presente em websites, aplicativos híbridos mobile, implementações back-end, aplicações desktop dentre um universo de tecnologias que fazem uso de JavaScript, HTML5 e CSS3.
 
 ## Desenvolvimento de 8 PROJETOS com Bootstrap, ES6, Node.js, JQuery, TypeScript, Angular, React, Vue e Ember
 
