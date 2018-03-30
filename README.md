@@ -25,7 +25,7 @@ Qualquer pessoa que tenha um conhecimento básico em HTML e CSS está apto a faz
 ## O que serei capaz de fazer depois deste curso?
 
 Ao concluir este curso, o aluno que inciou como um pequeno Padawan terá se tornado um grande Mestre Jedi, irá fazer uso da Força JS aplicando em seu dia a dia para manter e desenvolver aplicativos modernos, manuteníveis e escaláveis.
-Irá ter aprendido a desenvolver uma aplicação COMPLETA 100% JavaScript no Front-End e Back-End, fazendo uso das tecnologias JavaScript, HTML5, CSS3, Node JS e os framworks front-end mais utilizados no mercado, como JQuery, NodeJS, Angular, React, Vue e Ember.
+Irá ter aprendido a desenvolver uma aplicação COMPLETA 100% JavaScript no Front-End e Back-End, fazendo uso das tecnologias JavaScript, HTML5, CSS3, Node JS e os frameworks front-end mais utilizados no mercado, como JQuery, NodeJS, Angular, React, Vue e Ember.
 
 ## Grade
 - Introdução ao Git/GitHub
