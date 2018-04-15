@@ -1,1 +1,1 @@
-I love computer
+I love python
