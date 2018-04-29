@@ -1,0 +1,1 @@
+Minhas tecnologias preferidas são HTML5, JavaScript, PHP, SQL, C++, Java (desenvolvimento android) e Python. =)
