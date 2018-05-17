@@ -59,14 +59,23 @@ Texto: ‘Apertem os cintos para adentramos ao hiper-espaço rumo a uma nova Mis
 Objetivo: Preencher manualmente o formulário formBoot e com click de um botão preencher o formulário formHtml com os mesmos dados.(main.js deve ser referenciado em crud.html)
 
 1 -) No button de rótulo ‘Primary’ presente no ‘formBoot’, altere seu type de ‘submit’ para ‘button’, adicione o evento onclick para chamar a função de nome ‘recebeDadosFormBoot’ que deve receber o próprio formulário como parâmetro.
+
 2 -) No arquivo main.js crie a função ‘recebeDadosFormBoot’ que deve receber um objeto de nome ‘objFormElementos’;
+
 2.1 -) Exiba no console o tipo de objeto de ‘objFormElementos’ fazendo uso do Object prototype e call.
+
 2.2 -) Crie um objeto chamado ‘objDadosForm’ através do construtor Object;
+
 2.3 -) Recupere todos os valores dos campos do formulário ‘formBoot’ através o do objeto ‘objFormElementos’. Você deve criar propriedades do mesmo nome de cada campo do formulário no objeto ‘objDadosForm’ e exibir o valor de cada campo no console.
+
 2.4 -) Exiba no console as propriedades do objeto ‘objDadosForm’;
+
 2.5 -) Chame a função de nome ‘preencherFormHtml’ a ser criada, passando por parâmetro o objeto ‘objDadosForm’;
+
 3 -) Crie uma nova função de nome ‘preencherFormHtml’ que receba por parâmetro um objeto de nome ‘objDados’;
+
 3.1 -) Utilize alguma função de manipulação de DOM de sua escolha e preencha todos os campos do formulário ‘formHtml’ com os dados do objeto ‘objDados’;
+
 3.2 -) Realize um teste para verificar se tudo está funcionando de acordo.
 
 Fico no aguardo do relatório da Missão via Pull Request Jovem Padawan! :)
