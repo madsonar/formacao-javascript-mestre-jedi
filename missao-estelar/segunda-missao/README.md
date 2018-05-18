@@ -5,7 +5,7 @@ Olá Jovem Padawan!!!
 
   Seja bem-vindo a nossa Segunda Missão Estelar JS! :)
 
-  Até o momento foram apresentados diversos assuntos sobre JS no curso, porém chegou o momento de podemos pôr em prática e mostrar o poder da Força inerentes aos conteúdos assimilados até o momento!
+  Até o momento foram apresentados diversos assuntos sobre JS no curso, porém chegou o momento de podemos pôr em prática e mostrar o poder da Força inerente aos conteúdos assimilados até o momento!
 
   Apertem os cintos para adentramos ao hiper-espaço rumo a uma nova Missão Estelar JS para tornar-se um Metre JS Jedi!:)
 
@@ -15,7 +15,7 @@ Olá Jovem Padawan!!!
 
 1 - Realize um Fork do repositório da Formação JavaScript Mestre Jedi para sua conta no GitHub (Obs: Caso já o tenha realizado na primeira Missão, favor desconsiderar);
 
-2 - Clone seu novo repositório clonado para sua máquina via Git Bash e abra com Visual Studio Code. Obs: Caso já o tenha realizado você deve apenas atualizar o repositório local com repositório remoto principal do curso, caso contrário segue alguns passos:
+2 - Clone seu novo repositório clonado para sua máquina via Git Bash e abra com Visual Studio Code. (Obs: Caso já o tenha realizado você deve apenas atualizar o repositório local com repositório remoto principal do curso, ou, do contrário segue alguns passos:)
   
 Comandos importantes GIT:
 (Adicionar referência ao repositório remoto principal do curso)
@@ -32,7 +32,7 @@ Ou
 
 4 – Copie a estrutura de arquivos da pasta ‘bootstrap-index’ para dentro de sua pasta recém criada dentro do diretório da Segunda Missão Estelar;
 
-5- Crie uma arquivo chamado ‘main.js’ dentro da pasta ‘js’ contido em ‘bootstrap-index’;
+5- Crie um arquivo chamado ‘main.js’ dentro da pasta ‘js’ contido em ‘bootstrap-index’;
 
 6 – Em ‘main.js’ crie um comentário de apenas uma linha com texto ‘Segunda Missão Estelar JS’.
 
@@ -54,7 +54,7 @@ Ou
 
 Texto: ‘Apertem os cintos para adentramos ao hiper-espaço rumo a uma nova Missão Estelar JS!:)’
 
-15- Crie uma estrutura de código que mostre os números de 0 á 30 de forma decrescente com uso do for, faça uso do try catch finally, na mesma implementação dispare um error na iteração 29 para que o bloco catch possa tratar e mostrar no console os detalhes do erro.
+15- Crie uma estrutura de código que mostre os números de 0 a 30 de forma decrescente com uso do for, faça uso do try catch finally, na mesma implementação dispare um error na iteração 29 para que o bloco catch possa tratar e mostrar no console os detalhes do erro.
 
 16 – Faça uso do arquivo ‘crud.html’ para implementar as instruções a seguir:
 
