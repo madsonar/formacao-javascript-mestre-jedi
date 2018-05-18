@@ -13,9 +13,10 @@ Olá Jovem Padawan!!!
 
   ### Passos para execução da Missão Estelar JS
 
-  1 - Realize um Fork do repositório da Formação JavaScript Mestre Jedi para sua conta no GitHub (Obs: Caso já o tenha realizado na primeira Missão, favor desconsiderar);
+1 - Realize um Fork do repositório da Formação JavaScript Mestre Jedi para sua conta no GitHub (Obs: Caso já o tenha realizado na primeira Missão, favor desconsiderar);
 
-  2 - Clone seu novo repositório clonado para sua máquina via Git Bash e abra com Visual Studio Code. Obs: Caso já o tenha realizado você deve apenas atualizar o repositório local com repositório remoto principal do curso, caso contrário segue alguns passos:
+2 - Clone seu novo repositório clonado para sua máquina via Git Bash e abra com Visual Studio Code. Obs: Caso já o tenha realizado você deve apenas atualizar o repositório local com repositório remoto principal do curso, caso contrário segue alguns passos:
+  
 Comandos importantes GIT:
 (Adicionar referência ao repositório remoto principal do curso)
 - git remote add upstream “caminho repositório SSH”
@@ -27,13 +28,14 @@ Comandos importantes GIT:
 Ou
 - git pull uptream master
 
-  3 - Crie uma pasta com nome de seu usuário do GitHub (ex: 'madsonar') dentro da estrutura de diretório 'missao-estelar->segunda-missao';
+3 - Crie uma pasta com nome de seu usuário do GitHub (ex: 'madsonar') dentro da estrutura de diretório 'missao-estelar->segunda-missao';
 
-  4 – Copie a estrutura de arquivos da pasta ‘bootstrap-index’ para dentro de sua pasta recém criada dentro do diretório da Segunda Missão Estelar;
+4 – Copie a estrutura de arquivos da pasta ‘bootstrap-index’ para dentro de sua pasta recém criada dentro do diretório da Segunda Missão Estelar;
 
 5- Crie uma arquivo chamado ‘main.js’ dentro da pasta ‘js’ contido em ‘bootstrap-index’;
 
 6 – Em ‘main.js’ crie um comentário de apenas uma linha com texto ‘Segunda Missão Estelar JS’.
+
 7 – Em ‘main.js’ crie um comentário de múltiplas linhas informando o texto ‘Apertem os cintos para adentramos ao hiper-espaço rumo a uma nova Missão Estelar JS!:)’;
 
 8 – Em ‘main.js’ crie uma variável string de nome ‘missao’ de forma literal com texto sugerido no item 6 desta orientação, logo em seguida exiba o valor da mesma no console juntamente com o seu tipo;
