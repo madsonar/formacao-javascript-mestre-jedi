@@ -5,8 +5,6 @@
 * JAVASCRIPT
 * MYSQL
 * POSTGRESQL
-
-## Estou interessado em
 * VUE
 * NODEJS
 * IONIC
