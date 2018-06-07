@@ -14,7 +14,10 @@ Faça um Fork do projeto Formação JavaScript Mestre Jedi e faça parte de noss
 - https://github.com/fernandolimati
 - https://github.com/gdcamargo
 - https://github.com/odaircori
+- https://github.com/PedroGurgel/
 - https://github.com/marxros
 - https://github.com/cardosoGui
 - https://github.com/isaacNP
 - https://github.com/dnldmp
+- https://github.com/viniciusLC13
+- https://github.com/hernaniike
