@@ -22,3 +22,4 @@ Faça um Fork do projeto Formação JavaScript Mestre Jedi e faça parte de noss
 - https://github.com/dnldmp
 - https://github.com/viniciusLC13
 - https://github.com/hernaniike
+- https://github.com/Wpdas
