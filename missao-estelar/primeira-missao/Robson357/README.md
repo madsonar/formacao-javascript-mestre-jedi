@@ -1,3 +1,4 @@
+ # Minhas tecnologias preferidas
  - JavaScript
  - Java 
  - HTML5
@@ -14,5 +15,4 @@
  - Angular
  - XHTML
  - Kotlin
- - OOP
 
