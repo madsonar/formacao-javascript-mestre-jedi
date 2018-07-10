@@ -22,7 +22,7 @@ var clienteArray = [
 
 var clienteObject = {
     nome: 'Darth Sidius',
-    renda: 69000,
+    renda: 67000,
     dataNasc: new Date('1912-2-28'),
     ativo: true
 };
