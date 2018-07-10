@@ -49,16 +49,10 @@ function exibirDadosClienteVariaveis() {
 
 function exibirDadosClienteArray() {
     for (let valor of clienteArray) {
-        for (let interno of valor) {
-            if (interno == true) {
-                console.log('>> Sim');
-                continue;
-            }
-            else if (interno == false) {
-                console.log('>> Não');
-                continue;
-            }
-            console.log('>> ' + interno);
+        if (valor[0] == 'Ativo') {
+            console.log('>> ' + valor[0] + ': ' + (valor[1] == true ? 'Sim' : 'Não'));    
+        } else {
+            console.log('>> ' + valor[0] + ': ' + valor[1]);
         }
     }
 }
