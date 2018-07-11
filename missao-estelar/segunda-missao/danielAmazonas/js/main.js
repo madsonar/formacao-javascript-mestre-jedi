@@ -27,13 +27,13 @@ var clienteObject = {
     ativo: true
 };
 
-var hiperEspacoRegExp = new RegExp('Estelar');
+var hiperEspacoRegExp = new RegExp(/Estelar/);
 var textoMissao = 'Apertem os cintos para adentramos ao hiper-espaço rumo a uma nova Missão Estelar JS!:)';
-console.log('>> ' + hiperEspacoRegExp.test(textoMissao));
+console.log('>> Test: ', hiperEspacoRegExp.test(textoMissao));
 
 console.log('######################');
 
-console.log(hiperEspacoRegExp.exec(textoMissao));
+console.log('>> Exec: ', hiperEspacoRegExp.exec(textoMissao));
 
 console.log('######################');
 
