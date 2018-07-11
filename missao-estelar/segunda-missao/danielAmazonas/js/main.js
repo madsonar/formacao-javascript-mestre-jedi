@@ -82,9 +82,21 @@ function exibirDadosClienteObjeto() {
 
 function retornaDataAtualFormatada() {
     var dataInicial = new Date();
-    var dataFormatada = dataInicial.getDate() + '/';
-    dataFormatada += dataInicial.getMonth() + 1 + '/';
-    dataFormatada += dataInicial.getFullYear();
+    var dia = dataInicial.getDate();
+    var mes = dataInicial.getMonth() + 1;
+    var ano = dataInicial.getFullYear();
+    var dataFormatada = '';
+
+    if (dia.toString().length == 1)
+        dataFormatada += '0' + dia.toString() + '/';
+    else
+        dataFormatada += dia.toString() + '/';
+
+    if (mes.toString().length == 1)
+        dataFormatada += '0' + mes.toString() + '/';
+    else
+        dataFormatada += mes.toString() + '/';
+    dataFormatada += ano;
     console.log('>> Data Atual Formatada: ' + dataFormatada);
 }
 
