@@ -1,9 +1,9 @@
 var missão = "Missão Estelar JS em execução!!!";
 
 function eventoOnload() {
-    console.log("Evento onload disparado");
+    console.log(this.missão + " - Evento onload disparado");
 }
 
 function eventoOnClick() {
-    console.log("Missão Estelar JS realizada com sucesso!!!");
+    console.log(this.missão + " - realizada com sucesso!!!");
 }
