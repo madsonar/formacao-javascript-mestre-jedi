@@ -1,5 +1,8 @@
+var missao = "em execução";
 function eventOnLoad(){
-    console.log("evento onload disparado");
+    console.log("evento onload disparado!!");
 }
 
-var missao = "em execução";
+function eventOnClick(){
+    alert("Missão realizada com sucesso!!!");
+}
