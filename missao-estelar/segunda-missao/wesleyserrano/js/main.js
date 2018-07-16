@@ -84,17 +84,52 @@ try
       console.log(contador);
       if(iteracao == threshold) 
       {
-        throw new Error("Interação 29. Um erro foi gerado");
+        throw new Error("Iteração 29. Um erro foi gerado");
       }
     }
 }
 catch (erro) 
 {
-    console.log(erro.name);
     console.log(erro.message);
+    console.log(erro.name);
     console.log(erro.stack);
 }
 finally
 {
     console.log("Finally");
+}
+
+function preencherFormHtml(objDados)
+{
+  var propertyRegexp = new RegExp('Check|Radio');
+ 
+  var nomesCampos = Object.getOwnPropertyNames(objDados);
+  
+  var formHTMLName = '#formHtml';
+
+  for(var campo of nomesCampos)
+  {
+    var propriedadeComValor = propertyRegexp.test(campo)? 'checked' :'value';
+    var campoHtml = campo.replace('Boot','Html');
+    
+    document.querySelector(formHTMLName + ' #'+campoHtml)[propriedadeComValor] = objDados[campo];
+  }
+}
+
+function recebeDadosFormBoot(objFormElementos)
+{
+   console.log('Tipo do objeto do formulário: ',Object.prototype.toString.call(objFormElementos))
+   var objDadosForm = new Object();
+   
+   var nomesCampos = ['nomeBoot','emailBoot','emailPromocionalCheckBoot','formaContatoTelefoneRadioBoot','formaContatoEmailRadioBoot','estadoSelectBoot']
+   
+   var propertyRegexp = new RegExp('Check|Radio');
+   for(var campo of nomesCampos)
+   {
+       var propriedadeComValor = propertyRegexp.test(campo)? 'checked' :'value';
+       console.log(campo, objFormElementos[campo][propriedadeComValor]);
+       objDadosForm[campo] = objFormElementos[campo][propriedadeComValor];
+   }
+
+   preencherFormHtml(objDadosForm);
 }
