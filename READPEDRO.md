@@ -1,0 +1,1 @@
+Olá, minhas tecnologias favoritas são: Py e JS.
