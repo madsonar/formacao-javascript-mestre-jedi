@@ -1,2 +1,0 @@
-Meu nome é Fellipe tenho 24 anos, atualmente trabalho com desevolvimento full stack e vejo o frontend como um grande obstaculos que preciso vencer, essa é minha motivação parar fazer este curso.
-Fora isso tenho gosto por programação de jogos com Unreal e c++.

@@ -1,1 +1,0 @@
-Sou estudante de ADS, apaixonado por web e backend. Conheço um pouco de php e estou estudando python com flask para o meu estágio, porém, não tenho quase nenhum conhecimento de frontend e estou tentando aprender um pouco de javascript e suas tecnologias.
