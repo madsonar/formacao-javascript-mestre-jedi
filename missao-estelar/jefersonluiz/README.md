@@ -1,7 +1,0 @@
-- JavaScript
-- Python
-- Ruby
-- CSS
-- React
-- Angular
-- HTML5
