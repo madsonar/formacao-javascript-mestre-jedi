@@ -1,14 +1,14 @@
-// declaração de variáveis
-let missao = 'Missão Estelar JS em execução!!!';
+//declarando variavel
+let $missao = 'Missão Estelar JS em execução!!!'; 
+console.log($missao);
+//alert($missao);
 
-// declaração de uma função
+//declaração das funções
 
-function eventoOnLoad () {
+function eventoOnLoad(){
     console.log ("Evento On Load disparado");
-
 }
 
-function eventoOnClick () {
-    alert('Missão Estelar JS realizada com sucesso!!!');
-
+function eventoOnClick(){
+    alert("Missão Estelar JS realizada com sucesso!!!");
 }
