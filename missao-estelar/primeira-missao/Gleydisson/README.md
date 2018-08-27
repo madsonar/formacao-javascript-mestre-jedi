@@ -1,5 +1,5 @@
 # Gleydisson Bona da Silva
-### Tecnologias
+### Minhas Tecnologias Preferidas
 
  - JavaScript
  - NodeJs
