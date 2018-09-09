@@ -1,0 +1,2 @@
+# Tecnologias preferidas
+Bom ja trabalhei com Python 3x + Django 2x, PHP + Laravel 5x, Atualmente trabalho com C# .NET, mas sem duvidas analizando o mercado atual estou me dedicando a aprender o JS da meneira corretapara que possa agregar mais valor a minha carreira.
