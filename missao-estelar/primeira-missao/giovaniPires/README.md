@@ -2,7 +2,7 @@
 
 Criado o arquivo readme e informado as tecnologias.
 
-## Tencologias preferidas
+## Tecnologias preferidas
 
 HTML e HTML5;
 CSS3;
