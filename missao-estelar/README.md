@@ -30,3 +30,4 @@ Faça um Fork do projeto Formação JavaScript Mestre Jedi e faça parte de noss
 - https://github.com/MatheusLimaN
 - https://github.com/PBconserta
 - https://github.com/matheus-ndc
+- https://github.com/getfabiolima
