@@ -1,4 +1,6 @@
 # FORMAÇÃO JAVASCRIPT MESTRE JEDI - 2018
+# ALUNO FRANCISCO FLÁVIO CARDOSO GOMES
+
 ![FORMAÇÃO JAVASCRIPT MESTRE JEDI - 2018](http://www.digitalcodigos.com.br/img-curso-js-v7-750-422.png)
 
 # Curso de JavaScript Completo
@@ -9,6 +11,7 @@
 [Ganhe um DESCONTO DE 80% em sua INSCRIÇÃO AGORA!](https://www.udemy.com/curso-de-javascript-completo-formacao-mestre-jedi-javascript/?couponCode=LANCAMENTO-80-DESCON)
 
 ## Descrição
+
 
 Com crescentes atualizações na especificação 262 da ECMAScript com ES5, ES6 e ESNext, a linguagem de programação JavaScript está ganhando bastante espaço entre os desenvolvedores e empresas, tem apresentado novas features que diminui a curva de aprendizagem da linguagem, tornando o processo de desenvolvimento mais ágil, principalmente para desenvolvedores oriundos de linguagens como JAVA, C#, C++, PHP dentre outras que fazem uso do paradigma de programação orientado a objetos.
 
