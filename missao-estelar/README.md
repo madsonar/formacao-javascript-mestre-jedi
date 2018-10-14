@@ -32,3 +32,5 @@ Faça um Fork do projeto Formação JavaScript Mestre Jedi e faça parte de noss
 - https://github.com/matheus-ndc
 - https://github.com/getfabiolima
 - https://github.com/juanvlopes
+- https://github.com/faaabydev
+- https://github.com/faaaby
