@@ -3,7 +3,7 @@ console.log(nome);
 nome = "Prof. Madson";
 console.log(nome);
 
-nome = undefined;//já mais usar
+nome = undefined;//jamais usar
 nome = null;//liberar espaço em memória
 
 console.log("undefined == null", undefined == null);
