@@ -1,5 +1,4 @@
 # FORMAÇÃO JAVASCRIPT MESTRE JEDI - 2018
-# ALUNO FRANCISCO FLÁVIO CARDOSO GOMES
 
 ![FORMAÇÃO JAVASCRIPT MESTRE JEDI - 2018](http://www.digitalcodigos.com.br/img-curso-js-v7-750-422.png)
 
