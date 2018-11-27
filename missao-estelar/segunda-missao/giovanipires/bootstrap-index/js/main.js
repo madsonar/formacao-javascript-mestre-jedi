@@ -132,3 +132,44 @@ try {
 } finally {
     console.log("Executou o bloco Finally");
 }
+
+//Tarefa 16
+function receberDadosFormBoot(objFormElementos) {
+    console.log("Tipo do Objeto: " + Object.prototype.toString.call(objFormElementos));
+
+    var objDadosForm = new Object();
+
+    console.log("nomeBoot", objFormElementos.nomeBoot.value);
+    objDadosForm.nomeBoot = objFormElementos.nomeBoot.value;
+
+    console.log("emailBoot", objFormElementos.emailBoot.value);
+    objDadosForm.emailBoot = objFormElementos.emailBoot.value;
+
+    console.log("emailPromocionalCheckBoot", objFormElementos.emailPromocionalCheckBoot.checked);
+    objDadosForm.emailPromocionalCheckBoot = objFormElementos.emailPromocionalCheckBoot.checked;
+
+    console.log("formaContatoTelefoneRadioBoot", objFormElementos.formaContatoTelefoneRadioBoot.checked);
+    objDadosForm.formaContatoTelefoneRadioBoot = objFormElementos.formaContatoTelefoneRadioBoot.checked;
+
+    console.log("formaContatoEmailRadioBoot", objFormElementos.formaContatoEmailRadioBoot.checked);
+    objDadosForm.formaContatoEmailRadioBoot = objFormElementos.formaContatoEmailRadioBoot.checked;
+
+    console.log("estadoSelectBoot", objFormElementos.estadoSelectBoot.value);
+    objDadosForm.estadoSelectBoot = objFormElementos.estadoSelectBoot.value;
+
+    console.log(objDadosForm);
+
+    preencherFormHtml(objDadosForm);
+}
+
+function preencherFormHtml(objDados) {
+  let formHtmlSimples = document.querySelector(#formHtml);
+  console.log(formHtml);
+
+  formHtml.nomeHtml.value = objDados.nomeBoot;
+  formHtml.emailHtml.value = objDados.emailBoot;
+  formHtml.emailPromocionalCheckHtml.checked = objDados.emailPromocionalCheckBoot;
+  formHtml.formaContatoTelefoneRadioHtml.checked = objDados. formaContatoTelefoneRadioBoot;
+  formHtml.formaContatoEmailRadioHtml.checked = objDados.formaContatoEmailRadioBoot;
+  formHtml.estadoSelectHtml.value = objDados.estadoSelectBoot;
+}
