@@ -82,3 +82,53 @@ function exibirDadosCienteObjeto() {
 }
 
 exibirDadosCienteObjeto();
+
+//Tarefa 13
+function retornarDataAtualFormatada() {
+    var data = new Date();
+    var dia = data.getDate();
+    var mes = data.getMonth()+1;
+    var ano = data.getFullYear();
+    var dataFomatada = '';
+
+    if(dia.toString().length == 1) {
+        dataFomatada += "0" + dia.toString();
+    }else{
+        dataFomatada += dia.toString();
+    }
+
+    if(mes.toString().length == 1) {
+        dataFomatada += "/0" + mes.toString();
+    }else{
+        dataFomatada += "/" + mes.toString();
+    }
+
+    dataFomatada += "/" + ano.toString();
+
+    return dataFomatada;
+}
+
+console.log("Data: ", retornarDataAtualFormatada());
+
+//Tarefa 14
+var hiperespacoRegExp = new RegExp(/Estelar/);
+var textoMissao = "Apertem os cintos para adentrarmos ao hiper-espaço rumo a uma nova Missão Estelar JS! :)";
+
+console.log("Teste: ", hiperespacoRegExp.test(textoMissao));
+console.log("Pesquisa: ", hiperespacoRegExp.exec(textoMissao));
+
+//Tarefa 15
+try {
+    for (var i = 30, c = 0; i>= 0; i--, c++) {
+        console.log(i, " <=> " + c);
+        if(c == 29) {
+            throw new Error("Ocorreu um erro na iteração: " + c);
+        }
+    }
+} catch (error) {
+    console.log(error.nome);
+    console.log(error.message);
+    console.log(error.stack);
+} finally {
+    console.log("Executou o bloco Finally");
+}
