@@ -6,7 +6,7 @@
 
 -  LANÇAMENTO DE NOVAS AULAS DIARIAMENTE! 
 
-[Ganhe um DESCONTO DE 80% em sua INSCRIÇÃO AGORA!](https://www.udemy.com/curso-de-javascript-completo-formacao-mestre-jedi-javascript/?couponCode=LANCAMENTO-80-DESCON)
+[Ganhe um DESCONTO DE 96% em sua INSCRIÇÃO AGORA! APENAS R$ 19,99](https://www.udemy.com/curso-de-javascript-completo-formacao-mestre-jedi-javascript/?couponCode=PROMOCAO-POR-19-99)
 
 ## Descrição
 
