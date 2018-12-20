@@ -7,10 +7,9 @@
 
 -  LANÇAMENTO DE NOVAS AULAS DIARIAMENTE! 
 
-[Ganhe um DESCONTO DE 96% em sua INSCRIÇÃO AGORA! APENAS R$ 19,99](https://www.udemy.com/curso-de-javascript-completo-formacao-mestre-jedi-javascript/?couponCode=PROMOCAO-POR-19-99)
+[GANHE AGORA UM DESCONTO MÁXIMO EM SUA INSCRIÇÃO POR APENAS R$ 19,99](https://www.udemy.com/curso-de-javascript-completo-formacao-mestre-jedi-javascript/?couponCode=PROMOCAO-POR-19-99)
 
 ## Descrição
-
 
 Com crescentes atualizações na especificação 262 da ECMAScript com ES5, ES6 e ESNext, a linguagem de programação JavaScript está ganhando bastante espaço entre os desenvolvedores e empresas, tem apresentado novas features que diminui a curva de aprendizagem da linguagem, tornando o processo de desenvolvimento mais ágil, principalmente para desenvolvedores oriundos de linguagens como JAVA, C#, C++, PHP dentre outras que fazem uso do paradigma de programação orientado a objetos.
 
