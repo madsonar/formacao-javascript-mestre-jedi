@@ -25,6 +25,15 @@ console.log(!!vazio);
 console.log("-----");
 
 //6 valores / objetos
+/*
+Valores que sempre serão falsos
+console.log(!!"");
+console.log(!!0);
+console.log(!!-0);
+console.log(!!null);
+console.log(!!undefined);
+console.log(!!NaN);
+*/
 console.log(!!"");
 console.log(!!0);
 console.log(!!-0);

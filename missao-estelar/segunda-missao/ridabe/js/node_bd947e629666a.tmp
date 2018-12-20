@@ -1,0 +1,9 @@
+//Segunda Missão Estelar JS
+/*
+Apertem os cintos para adentramos ao hiper-espaço 
+rumo a uma nova Missão Estelar JS!:)
+*/
+
+var missao = "Segunda Missão Estelar JS";
+
+console.log('teste');

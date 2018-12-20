@@ -1,4 +1,4 @@
-# Missão Estelar JavaScript Mestre Jedi
+﻿# Missão Estelar JavaScript Mestre Jedi
 
 Olá Jovem Nerd Padawan!
 
@@ -14,6 +14,28 @@ Faça um Fork do projeto Formação JavaScript Mestre Jedi e faça parte de noss
 - https://github.com/fernandolimati
 - https://github.com/gdcamargo
 - https://github.com/odaircori
+- https://github.com/PedroGurgel/
 - https://github.com/marxros
 - https://github.com/cardosoGui
 - https://github.com/isaacNP
+- https://github.com/armandoricky
+- https://github.com/dnldmp
+- https://github.com/viniciusLC13
+- https://github.com/hernaniike
+- https://github.com/Adelblande
+- https://github.com/Wpdas
+- https://github.com/danielAmazonas
+- https://github.com/VictorGeruso
+- https://github.com/lucassantosTI
+- https://github.com/MatheusLimaN
+- https://github.com/PBconserta
+- https://github.com/matheus-ndc
+- https://github.com/getfabiolima
+- https://github.com/juanvlopes
+- https://github.com/faaabydev
+- https://github.com/faaaby
+- https://github.com/faaaby
+- https://github.com/tammenhain123
+- https://github.com/flaviusanderson
+- https://github.com/Thekote
+
