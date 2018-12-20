@@ -1,0 +1,73 @@
+<h1>Cadastro Imagens Galeria</h1>
+<div id="msg"></div>
+
+<div id="listagem">
+    <button id='btn-exibir-formulario' type="button" class="btn btn-primary">
+        <i class="far fa-file-image"></i> Cadastrar</button>
+    <br>
+    <br>
+    <div id="galeria-listagem">
+        <div class="table-responsive">
+            <table class="table table-striped table-bordered table-hover table-sm">
+                <thead class="table-dark">
+                    <tr>
+                        <th>Código</th>
+                        <th>Descrição</th>
+                        <th>Imagem</th>
+                        <th></th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td></td>                        
+                        <td></td>
+                        <td><img src="" class="img-fluid" width="30%" alt="Responsive image"></td>                        
+                        <td>
+                            <button class="btn btn-danger" >Editar</button>
+                        </td>
+                        <td>
+                            <button class="btn btn-danger">Excluir</button>
+                        </td>
+                    </tr>
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<div id="formulario">
+    <div class="row">
+        <div class="col-sm">
+            <form method="POST" action="/" id="galeriaForm">
+
+                <div class="form-group">
+                    <label for="id">Código</label>
+                    <input type="number" class="form-control" id="id_galeria" name="id_galeria"/>
+                </div>
+
+                <div class="form-group">
+                    <label for="nomeBoot">Título</label>
+                    <input type="text" class="form-control" id="titulo" name="titulo" placeholder="Informe o Título"/>
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleFormControlFile1">Imagem</label>
+                    <input type="file" class="form-control-file" id="imgUpload" name="imgUpload">
+                </div>
+
+                <div class="form-group">
+                    <img src="" id="imgPrevia" name="imgPrevia" class="img-fluid" alt="..." />
+                </div>
+
+                
+                <div class="form-inline">
+                    <button id='cadastrar-boot' type="submit" class="btn btn-primary mr-sm-2">Salvar</button>                    
+                    <button id='btn-cancelar-operacao' type="button" class="btn btn-primary">Cancelar</button>
+                </div>
+
+            </form>
+        </div>
+    </div>
+</div>
