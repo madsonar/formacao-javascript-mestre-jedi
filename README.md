@@ -1,3 +1,3 @@
-﻿# Técnonogias Favoritas
+﻿# Técnologias Favoritas
 
 Jogos, celulares, cameras
