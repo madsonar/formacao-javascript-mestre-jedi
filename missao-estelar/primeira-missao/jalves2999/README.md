@@ -1,2 +1,3 @@
-##PHP
-##javascript
+# Minyhas Tecnologias preferidas
+- PHP
+- javascript
