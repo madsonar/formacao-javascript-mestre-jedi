@@ -1,0 +1,1 @@
+Gosto muito de programar, quanto a linguagens preferidas, comecei com Java e hoje trabalho com C# e Javascript.

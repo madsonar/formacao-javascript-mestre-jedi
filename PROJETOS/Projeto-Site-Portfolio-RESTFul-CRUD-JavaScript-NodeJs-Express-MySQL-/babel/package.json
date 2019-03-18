@@ -1,0 +1,15 @@
+{
+  "name": "app-babel",
+  "version": "1.0.0",
+  "description": "teste com babel",
+  "main": "index.js",
+  "scripts": {
+    "build":"babel src -d dist"
+  },
+  "author": "Prof. Madson Aguiar",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
