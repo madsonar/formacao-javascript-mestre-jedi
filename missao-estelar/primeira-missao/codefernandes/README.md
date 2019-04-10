@@ -1,3 +1,0 @@
-# 1ª Missão
-
-## Tecnologias
