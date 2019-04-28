@@ -38,14 +38,7 @@ Olá Jovem Padawan!!!
   14 - Realize um push para o repositório 'origin' a partir de 'master' via Git Bash. Não esqueça dos comandos status, add e commit antes de realizar o push :);
 
   15 - Via sua conta no GitHub realize um Pull Request para o repositório principal da Formação JavaScript Mestre Jedi
- 
+
   Fico no aguardo Jovem Padawan.
 
   Que a Força esteja com Você!
-
-
-
-
-
-
-
