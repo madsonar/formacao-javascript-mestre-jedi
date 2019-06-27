@@ -1,0 +1,5 @@
+# Tecnologias
+
+- PHP
+- JS
+- BD
