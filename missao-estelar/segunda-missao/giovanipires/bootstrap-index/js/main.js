@@ -68,7 +68,7 @@ function exibirDadosCienteObjeto() {
             case "renda":
                 console.log("Renda: R$ ", clienteObject[key].toString().replace(".",","));
                 break;
-            case "dataNascimento: "
+            case "dataNascimento" :
                 console.log("Data de nascimento: ", clienteObject[key]);
                 break;
             case "ativo":
