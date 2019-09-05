@@ -1,0 +1,1 @@
+Java, J2EE, JSF, PrimeFaces, EJB, Hibernate, Git, Jira
