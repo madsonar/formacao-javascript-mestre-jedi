@@ -79,9 +79,9 @@
                     </div>
                     <div>
                         <label for="formaContatoTelefoneRadioHtml">Contato por Telefone</label>
-                        <input type="radio" id="formaContatoTelefoneRadioHtml" name="formaContatoRadioHtml" />
+                        <input type="radio" id="formaContatoTelefoneRadioHtml" name="formaContatoRadioHtml" value="telefone"/>
                         <label for="formaContatoEmailRadioHtml">Contato por email</label>
-                        <input type="radio" id="formaContatoEmailRadioHtml" name="formaContatoRadioHtml" />
+                        <input type="radio" id="formaContatoEmailRadioHtml" name="formaContatoRadioHtml" value="email"/>
                     </div>
                     <div>
                         <select name="estadoSelectHtml" id="estadoSelectHtml">
@@ -120,11 +120,11 @@
                     <br>
 
                     <div class="custom-control custom-radio">
-                        <input type="radio" id="formaContatoTelefoneRadioBoot" name="formaContatoRadioBoot" class="custom-control-input">
+                        <input type="radio" id="formaContatoTelefoneRadioBoot" name="formaContatoRadioBoot" class="custom-control-input" value="telefone">
                         <label class="custom-control-label" for="formaContatoTelefoneRadioBoot">Contato por Telefone</label>
                     </div>
                     <div class="custom-control custom-radio">
-                        <input type="radio" id="formaContatoEmailRadioBoot" name="formaContatoRadioBoot" class="custom-control-input">
+                        <input type="radio" id="formaContatoEmailRadioBoot" name="formaContatoRadioBoot" class="custom-control-input" value="email">
                         <label class="custom-control-label" for="formaContatoEmailRadioBoot">Contato por email</label>
                     </div>
                     <br>
@@ -140,7 +140,8 @@
                     <br>
 
                     <div>
-                        <button type="submit" class="btn btn-primary">Primary</button>
+                        <button type="button" class="btn btn-primary" 
+                            onclick="recebeDadosFormBoot(document.querySelector('#formBoot'))">Primary</button>
                     </div>
                     <br>
 
@@ -167,6 +168,7 @@
         <script src="./js/popper.min.js"></script>
         <script src="./js/bootstrap.min.js"></script>
         <script src="./js/js.js"></script>
+        <script src="./js/main.js"></script>
 </body>
 
 </html>

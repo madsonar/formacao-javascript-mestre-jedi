@@ -117,3 +117,49 @@ for (var index = 30; index >= 0; index--) {
         console.log(error.message);
     }
 }
+
+// 16
+// 16) 2.
+function recebeDadosFormBoot(objFormElementos) {
+    // 2.1
+    console.log(Object.prototype.toString.call(objFormElementos));
+
+    // 2.2
+    var objDadosForm = new Object();
+
+    // 2.3
+    objDadosForm.nome = objFormElementos.nomeBoot.value;
+    objDadosForm.email = objFormElementos.emailBoot.value;
+    objDadosForm.emailPromocionalCheck = objFormElementos.emailPromocionalCheckBoot.checked;
+    objDadosForm.formaContatoRadio = objFormElementos.formaContatoRadioBoot.value;
+    objDadosForm.estadoSelect = objFormElementos.estadoSelectBoot.value;
+    
+    // 2.4
+    console.log(objDadosForm.nome);
+    console.log(objDadosForm.email);
+    console.log(objDadosForm.emailPromocionalCheck);
+    console.log(objDadosForm.formaContatoRadio);
+    console.log(objDadosForm.estadoSelect);
+
+    // 2.5
+    preencherFormHtml(objDadosForm);
+}
+
+// 3
+function preencherFormHtml(objDadosForm) {
+    document.querySelector("#nomeHtml").value = objDadosForm.nome;
+    document.querySelector("#emailHtml").value = objDadosForm.email;
+    document.querySelector("#emailPromocionalCheckHtml").checked = objDadosForm.emailPromocionalCheck;
+    {
+        var radioTelefone = document.querySelector("#formaContatoTelefoneRadioHtml");
+        var radioEmail = document.querySelector("#formaContatoEmailRadioHtml");
+        radioTelefone.checked = false;
+        radioEmail.checked = false;
+        if (objDadosForm.formaContatoRadio == "telefone") {
+            radioTelefone.checked = true;
+        } else if (objDadosForm.formaContatoRadio == "email")  {
+            radioEmail.checked = true;
+        }
+    }
+    document.querySelector("#estadoSelectHtml").value = objDadosForm.estadoSelect;
+}
