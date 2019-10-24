@@ -1,0 +1,5 @@
+- JS
+- Angular
+- React 
+- HTML
+- CSS
