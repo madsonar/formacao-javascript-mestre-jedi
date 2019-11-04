@@ -3,15 +3,38 @@
 function preencherFormHtml(objDados)
 {
 
-    var formBootHandler = document.getElementById('formBoot');
+    var formBootHandler = document.getElementById('formHtml');
 
+    //console.log(formBootHandler);
+    //console.log(objDados);
 
-    for (const item of formBootHandler) {
+    var i = 0;
 
-        //console.log(item.value);
-        //console.log(objDados[item.name]);
+    for (const item in objDados) {
 
-        item.value = objDados[item.name];
+        //console.log(objDados[item]);
+        //console.log(formBootHandler[i]);
+
+        if (
+            
+            formBootHandler[i].type != 'radio'
+            &&
+            formBootHandler[i].type != 'checkbox'
+        )
+        {
+
+            //item.value = objDados[item.id];
+            formBootHandler[i].value = objDados[item];
+        }
+        else
+        {
+
+            formBootHandler[i].checked = objDados[item];
+
+        }
+        
+        i++;
+
     }
 
 }
@@ -24,9 +47,30 @@ function recebeDadosFormBoot(objFormElementos)
 
     var objDadosForm = new Object();
 
-    for (const key of objFormElementos) {
+    for (const item of objFormElementos) {
 
-        objDadosForm[key.name] = key.value;
+        //console.log(item.id);
+        //console.log(item.value);
+        //console.log(item.checked);
+
+        if (
+            
+            item.type != 'radio'
+            &&
+            item.type != 'checkbox'
+        )
+        {
+
+            objDadosForm[item.id] = item.value;
+
+        }
+        else
+        {
+
+            objDadosForm[item.id] = item.checked;
+
+        }
+        
         
     }
 

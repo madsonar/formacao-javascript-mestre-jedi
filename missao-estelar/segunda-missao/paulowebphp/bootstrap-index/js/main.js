@@ -12,6 +12,11 @@
 // QUESTÃO 8 E 9
  var missao = 'Segunda Missão Estelar JS';
 
+ console.log(missao);
+ console.log(typeof missao);
+
+
+
  var hiperespaco = new String('Apertem os cintos para adentramos ao hiper-espaço rumo a uma nova Missão Estelar JS!:)');
 
  console.log(hiperespaco);
@@ -25,7 +30,7 @@
  // QUESTAO 10
 var nomeCliente = 'Paulo';
 var renda = 3000;
-var dataNascimento = '1990-02-02';
+var dataNascimento = new Date('1990-02-02');
 var ativo = false;
 
 function exibirDadosClienteVariaveis(){
@@ -40,12 +45,20 @@ exibirDadosClienteVariaveis();
 
 
 
+
+
+
+
+
+
+
+
 //QUESTAO 11
 var clienteArray = [
 
     [ 'nomeCliente', 'Paulo'],
     [ 'renda', 3000],
-    [ 'dataNascimento', '1990-02-02'],
+    [ 'dataNascimento', new Date('1990-02-02') ],
     [ 'ativo', false]
 
 ];
@@ -63,12 +76,19 @@ function exibirDadosClienteArray(){
 exibirDadosClienteArray();
 
 
+
+
+
+
+
+
+
 //QUESTAO 12
 var clienteObject = {
 
     nomeCliente: 'Paulo',
     renda: 3000,
-    dataNascimento: '1990-02-02',
+    dataNascimento: new Date('1990-02-02'),
     ativo: false
 
 };
