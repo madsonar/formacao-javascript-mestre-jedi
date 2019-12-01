@@ -1,0 +1,147 @@
+//Segunda Missão Estelar JS
+
+/* Apertem os cintos!
+
+Para adentrarmos ao hiper espaço
+rumo a uma nova missão estelar JS.
+
+:)
+
+*/
+
+//Declaração de variáveis
+var missao = "Segunda Missão Estelar JS";
+var hiperespaco = "Apertem os cintos para adentramos ao hiper-espaço rumo a uma nova Missão Estelar JS!:)";
+var nomeCliente = "João";
+var renda = "1000";
+var dataNascimento = "1980/01/01";
+var ativo = true;
+var ClienteArray = [['nome: ', 'maria'], ['renda: ', '3000'], ['dataNascimento: ', new Date("1990-02-02")], ['ativo: ', true]];
+var ClienteObject = { nome: 'Carlos', renda: '5000', dataNascimento: new Date("1970-03-03"), ativo: false };
+var hiperEspacoRegExp = new RegExp("Estelar");
+var textoMissao = "Apertem os cintos para adentramos ao hiper-espaço rumo a uma nova Missão Estelar JS!:)";
+
+
+/*
+//Execuções
+console.log(missao + " " + "Tipo de dado: " + typeof missao);
+console.log(hiperespaco + " " + "Tipo de dado: " + typeof hiperespaco);
+console.log("******");
+exibirDadosClienteVariaveis();
+console.log("******");
+exibirDadosClienteArray();
+console.log("******");
+exibirDadosClienteObject();
+console.log(retornaDataAtualFormatada());
+console.log(hiperEspacoRegExp.test(textoMissao));
+console.log(hiperEspacoRegExp.exec(textoMissao));
+*/
+
+
+//15
+
+try{
+for(var i = 30; i >= 0; i--){
+    console.log(i);
+
+    if (i=29){
+
+        i=true;
+    }
+}
+}catch(Error){
+
+
+
+}finally{
+
+    console.log("Fim da execução FOR! Executado com sucesso!");
+}
+
+//Declaração de funções
+function exibirDadosClienteVariaveis() {
+    console.log("Nome: " + nomeCliente);
+    console.log("Renda: " + renda);
+    console.log("Data de nascimento: " + dataNascimento);
+    console.log("ativo: " + (ativo == true ? "Sim" : "Não"));
+
+}
+
+function exibirDadosClienteArray() {   //Precisei dar uma colada na resolução, mas fiquei revoltado por ser tão simples e eu não estar enxergando. :-/
+
+    for (var dados of ClienteArray) {
+        if (dados[0] == 'ativo: ') {
+            console.log(dados[0], dados[1] == true ? "Sim" : "Não");
+        } else {
+
+            console.log(dados[0], dados[1]);
+
+        }
+    }
+
+}
+
+function exibirDadosClienteObject() {  //Fiz de maneira distinta incialmente por falta de atenção no enunciado. Sem switch. Me dei conta ao revisar a resolução. Retornei e refiz.
+
+    for (chave in ClienteObject) {
+
+        switch (chave) {
+            case "nome":
+                console.log("Nome: " + ClienteObject[chave]);
+                break;
+
+            case "renda":
+                console.log("renda: " + ClienteObject[chave]);
+                break;
+
+            case "dataNascimento":
+                console.log("dataNascimento: " + ClienteObject[chave]);
+                break;
+
+            case "ativo":
+
+                if (ClienteObject[chave] == true) {
+                    console.log("ativo: Sim");
+                } else {
+                    console.log("ativo: Não");
+                }
+                break;
+
+
+        }
+
+
+    }
+}
+
+function retornaDataAtualFormatada() {
+
+    var data = new Date();
+    var dia = data.getDate();
+    var mes = data.getMonth() + 1;
+    var ano = data.getFullYear();
+    var dataFormatada = "";
+
+    if (dia.toString().length == 1) {
+        dataFormatada += "0" + dia.toString();
+    } else {
+        dataFormatada += dia.toString();
+    }
+
+    if (mes.toString().length == 1) {
+
+        dataFormatada += "/0" + mes.toString();
+    } else {
+        dataFormatada += "/" + mes.toString();
+    }
+
+    dataFormatada += "/" + ano.toString();
+
+    return dataFormatada;
+
+
+}
+
+
+
+
