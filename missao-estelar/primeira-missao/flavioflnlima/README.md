@@ -1,2 +1,3 @@
-Dot Net 
-C#
+Minhas Tecnologias prefereidas:
+- Dot Net 
+- C#
