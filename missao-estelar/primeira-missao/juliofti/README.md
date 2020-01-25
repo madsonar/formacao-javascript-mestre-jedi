@@ -1,4 +1,1 @@
-Java
-Javascript
-Node
-SQL
+Java - Javascript - Node - SQL
