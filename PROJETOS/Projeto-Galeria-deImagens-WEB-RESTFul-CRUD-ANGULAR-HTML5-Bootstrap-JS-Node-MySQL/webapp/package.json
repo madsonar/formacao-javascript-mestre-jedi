@@ -22,7 +22,7 @@
     "@ng-bootstrap/ng-bootstrap": "^4.0.0",
     "bootstrap": "^4.3.1",
     "core-js": "^2.5.4",
-    "jquery": "^3.3.1",
+    "jquery": "^3.4.0",
     "popper.js": "^1.14.6",
     "rxjs": "~6.3.3",
     "tslib": "^1.9.0",
