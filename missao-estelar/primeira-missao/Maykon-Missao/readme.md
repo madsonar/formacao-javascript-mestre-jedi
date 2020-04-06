@@ -4,3 +4,5 @@
 * React
 * Angular
 * Node
+* CSS
+* HTML
