@@ -3,14 +3,6 @@ const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const UglifyJsPlugin = require("uglifyjs-webpack-plugin");
 const OptimizeCSSAssetsPlugin = require("optimize-css-assets-webpack-plugin");
 
-/*
- entry: ["babel-polyfill", "./src/index.js"],//irá empacotar em um único arquivo
-  output: {
-    path: path.resolve(__dirname, 'dist'),
-    filename: 'bundle.js'
-  },
-*/
-
 module.exports = {
   entry: {
     babelpolyfill: 'babel-polyfill',
@@ -52,27 +44,6 @@ module.exports = {
           { loader: "css-loader" }
         ]
       },
-      /*{
-        test: /\.css$/,
-        use: [
-          { loader: "style-loader" },
-          { loader: "css-loader" }
-        ]
-      }      {
-        test: /\.css$/,
-        use: [
-          { loader: "style-loader/url" },
-          { loader: "file-loader" }
-        ]
-      },
-      {
-        test: /\.scss$/,
-        use: [
-            "style-loader", // creates style nodes from JS strings
-            "css-loader", // translates CSS into CommonJS
-            "sass-loader" // compiles Sass to CSS, using Node Sass by default
-        ]
-    }*/
       {
         test: /\.(scss)$/,
         use: [{
