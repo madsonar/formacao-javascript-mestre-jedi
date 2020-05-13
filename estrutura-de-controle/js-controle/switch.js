@@ -17,3 +17,5 @@ switch (curso) {
         console.log("Não encontrou a comparação correta.");
         break;
 }
+
+
