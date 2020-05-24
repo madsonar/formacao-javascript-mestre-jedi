@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../frameworks/styles/bootstrap.min.css"> <!-- import css do bootstrap -->
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <a class="navbar-brand" href="#">Navbar</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+          
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                  <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Link</a>
+                </li>
+                <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Dropdown
+                  </a>
+                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" href="#">Action</a>
+                    <a class="dropdown-item" href="#">Another action</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="#">Something else here</a>
+                  </div>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                </li>
+              </ul>
+              <form class="form-inline my-2 my-lg-0">
+                <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+              </form>
+            </div>
+          </nav>
+    </header>
+
+    <div class="container">
+        <h1>Comparação entre HTML e Bootstrap</h1>
+        
+        <br/>
+
+    </div>
+
+    <div class="container">
+        <div class="row">
+
+            <!-- coluna 1 do bootstrap -->
+            <div class="col-sm">
+                <h3>Form com HTML</h3>
+                <h2>Cadastro de cliente</h2>
+
+                <form action="/" method="POST" id="formHTML">
+                    <div>
+                        <label for="nomeHTML">Nome</label>
+                        <input type="text" id="nomeHTML" name="nomeHTML" placeholder="Informe seu nome"/>
+                    </div>
+                    <div>
+                        <label for="emailHTML">Email</label>
+                        <input type="email" id="emailHTML" name="emailHTML" placeholder="exemplo@email.com"/>
+                    </div>
+                    <div>
+                        <input type="checkbox" id="emailPromocionalHTML" name="emailPromocionalHTML"/>
+                        <label for="emailPromocionalHTML">Receber e-mail promocional</label>
+                    </div>
+                    <div>
+                        <label for="formaContatoTelefoneHTML">Contato por telefone</label>
+                        <input type="radio" id="formaContatoTelefoneHTML" name="formaContatoHTML"/>
+                        <label for="formaContatoEmailHTML">Contato por email</label>
+                        <input type="radio" id="formaContatoEmailHTML" name="formaContatoHTML"/>
+                    </div>
+                    <div>
+                        <select name="estadoSelectHTML" id="estadoSelectHTML">
+                            <option selected>Selecione um estado</option>
+                            <option value="CE">CE</option>
+                            <option value="SP">SP</option>
+                            <option value="RJ">RJ</option>
+                        </select>
+                    </div>
+
+                    <div>
+                        <button type="submit">Cadastrar</button>
+                    </div>
+                </form>
+            </div>
+
+            <!-- coluna 2 do bootstrap -->
+            <div class="col-sm">
+                <h3>Form com Bootstrap</h3>
+                <h2>Cadastro de cliente</h2>
+
+                <form action="/" method="POST" id="formBootstrap">
+                    <div>
+                        <label for="nomeBootstrap">Nome</label>
+                        <input type="text" class="form-control" id="nomeBootstrap" nome="nomeBootstrap" placeholder="Informe seu nome"/>
+                    </div>
+                    <div>
+                        <label for="emailBootstrap">E-mail</label>
+                        <input type="email" class="form-control" id="emailBootstrap" placeholder="exemplo@email.com"/>
+                    </div>
+                    
+                    <br/>
+
+                    <!-- checkbox bootstrap-->
+                    <div class="custom-control custom-checkbox">
+                        <input type="checkbox" class="custom-control-input" id="customCheck1">
+                        <label class="custom-control-label" for="customCheck1">Receber e-mail promocional</label>
+                      </div>
+
+                    <!-- radios buttons do bootstrap-->
+                    <div class="custom-control custom-radio">
+                        <input type="radio" id="customRadio1" name="customRadio" class="custom-control-input">
+                        <label class="custom-control-label" for="customRadio1">Contato por telefone</label>
+                    </div>
+                    <div class="custom-control custom-radio">
+                        <input type="radio" id="customRadio2" name="customRadio" class="custom-control-input">
+                        <label class="custom-control-label" for="customRadio2">Contato por email</label>
+                    </div>
+
+                    <br/>
+                    <!-- select do bootstrap-->
+                    <select class="custom-select" name="selectBootstrap" id="selectBootstrap">
+                        <option selected>Selecione um estado</option>
+                        <option value="CE">CE</option>
+                        <option value="RJ">RJ</option>
+                        <option value="SP">SP</option>
+                    </select>
+                    
+                    <br/><br/>
+
+                    <button onclick="recebeDadosFormBoot(formBootstrap)" type="button" class="btn btn-primary">Primary</button>
+                </form>
+            </div>
+        </div> <!-- fechamento row-->
+
+        <div id="colocareiElementosAqui">
+
+        </div>
+        <br/>
+    </div>
+
+    <footer>
+        <div class="card">
+            <div class="card-header">
+              Featured
+            </div>
+            <div class="card-body">
+              <h5 class="card-title">Special title treatment</h5>
+              <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+              <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+          </div>
+    </footer>
+    
+    <!-- sequência dos imports: depende dos imports acima -->
+    <script src="../frameworks/scripts/jquery-3.5.1.slim.min.js"></script> <!-- import dependência bootstrap -->
+    <script src="../frameworks/scripts/popper.min.js"></script> <!-- import dependência bootstrap -->
+    <script src="../frameworks/scripts/bootstrap.min.js"></script> <!-- import bootstrap -->
+    <script src="./js/main.js"></script>
+</body>
+</html>
