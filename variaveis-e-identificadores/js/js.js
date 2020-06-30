@@ -13,3 +13,5 @@ Linha
 function calcTributo() {
     //...
 }
+
+console.log("Nome:" + nome +"\nIdade : "+ idade + "\nSalário Requerido: "+ pretensaoSalarial)
