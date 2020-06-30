@@ -14,12 +14,12 @@ var arrayQualquer = ['a','b','c',1,2,3];
     const element = array[index];    
 }*/
 
-for(var index in arrayQualquer){// for...in: index recebe o o index do elemento do array
+for(var index in arrayQualquer){// for...in: index recebe  o index do elemento do array
     console.log("index:", index);
     console.log("valor:", arrayQualquer[index]);
 }
 
 console.log("------------for...of");
-for(var valor of arrayQualquer){// for...of: valor recebe o o valor do elemento do array
+for(var valor of arrayQualquer){// for...of: valor recebe  o valor do elemento do array
     console.log("valor:", valor);    
 }

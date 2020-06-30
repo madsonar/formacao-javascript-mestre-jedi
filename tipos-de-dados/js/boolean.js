@@ -40,6 +40,8 @@ console.log(!!-0);
 console.log(!!null);
 console.log(!!undefined);
 console.log(!!NaN);
+
+console.log('--------')
 console.log(!!Array);
 console.log(!!Object);
 console.log(!!Function);

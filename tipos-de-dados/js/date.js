@@ -12,10 +12,10 @@ console.log(dataString);
 
 console.log(dataString.getFullYear());
 console.log(dataString.getMonth()+1);
-console.log(dataString.getDay());
-console.log(dataString.getDate());
+console.log(dataString.getDay()); // Dia da semana (Array de [0]=> Domingo, [1]=> Segunda...)
+console.log(dataString.getDate()); //Dia do mês
 console.log(data.getHours());
 console.log(data.getMinutes());
 
-var dataParam = new Date(2018,04,17);
+var dataParam = new Date(2018,04,17); //passagem por parâmetro (ano, mês, dia)
 console.log(dataParam);

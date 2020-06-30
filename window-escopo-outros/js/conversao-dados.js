@@ -1,9 +1,9 @@
 //conversão automática
-console.log(23 + ' trinta e cinco');
-console.log(55 + "5");
-console.log(10 / "2");
-console.log("3" * "2");
-console.log("3" / {valor:5});
+console.log(23 + ' trinta e cinco'); // 23 trinta e cinco
+console.log(55 + "5"); //555
+console.log(10 / "2"); //5
+console.log("3" * "2"); // 6
+console.log("3" / {valor:5}); //NaN
 
 //conversão de forma explícita por construtor
 console.log(Number("23"));

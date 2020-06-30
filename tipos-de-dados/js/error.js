@@ -8,11 +8,11 @@ try {
 
 } catch (error) {
     //console.log(error);
-    console.log(error.name);
-    console.log(error.message);
-    console.log(error.stack);
+    console.log("Name: " + error.name);
+    console.log("\nMessage: " + error.message);
+    console.log("\nStack: "+ error.stack);
 }finally{
-    console.log("Sempre será executado!!!")
+    console.log("\n\nSempre será executado!!!")
 }
 
 function soma(a, b){

@@ -4,7 +4,7 @@ const conexao = mysql.createPool({
     host: 'localhost',
     user: 'root',
     password: '',
-    database: 'db_portfolio'
+    database: 'bd_portfolio'
 });
 
 module.exports = conexao;

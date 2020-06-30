@@ -1,7 +1,7 @@
 //Literais: São valores de dados que aparecem diretamente nas declarações
 var nomeCurso = "1 - Formação JavaScript Mestre Jedi";
 var nomeCurso2 = '2 - Formação JavaScript Mestre Jedi';
-var nomeCurso3 = new String('3 - Formação JavaScript Mestre Jedi');
+var nomeCurso3 = new String('\n 3 - Formação JavaScript Mestre Jedi');
 console.log(nomeCurso);
 console.log(nomeCurso2);
 console.log(nomeCurso3.toString());

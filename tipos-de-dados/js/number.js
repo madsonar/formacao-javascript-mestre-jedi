@@ -21,7 +21,7 @@ console.log(Number.MAX_VALUE);
 console.log(Number.MIN_VALUE);
 
 console.log(valor);
-console.log(valor.toString(10));
-console.log(valor.toString(2));
-console.log(valor.toString(8));
-console.log(valor.toString(16));
+console.log(valor.toString(10)); //Base 10
+console.log(valor.toString(2)); //Base binária
+console.log(valor.toString(8)); //Base 8
+console.log(valor.toString(16)); //Base 16 

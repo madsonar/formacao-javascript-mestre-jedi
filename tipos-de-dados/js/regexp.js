@@ -1,5 +1,5 @@
-var regexpLiteral = /JS/; //literal
-var regexpConstrutor = new RegExp("J");
+var regexpLiteral = /JS/; //literal. Usa as duas barras /expressão regular/
+var regexpConstrutor = new RegExp("J");//método de construção de expressão regular como objeto
 
 var stringCurso = "Formação Completa JavaScript - Mestre JS Jedi";
 

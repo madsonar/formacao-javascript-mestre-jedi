@@ -1,19 +1,19 @@
-typeof window //return "object"
-typeof Window //Interface return "function"
-window.Window //objeto window contém uma uto referência de Window
-window instanceof Window //window é uma instancia do construtor Window
+ typeof window //return "object"
+ typeof Window //Interface return "function"
+ window.Window //objeto window contém uma auto referência de Window
+// window instanceof Window //window é uma instancia do construtor Window
 
-//valores(propriedades) globais
-window.NaN;
-window.undefined;
-window.Infinity;
+// //valores(propriedades) globais
+// window.NaN;
+// window.undefined;
+// window.Infinity;
 
-//objetos globais
-window.document //objeto document representa o DOM
-typeof window.console //"object"
-typeof window.console.log //"function"
-typeof this.console // proprio objeto window
-var global = this; //Variavel que é referencia do objeto global
+// //objetos globais
+// window.document //objeto document representa o DOM
+// typeof window.console //"object"
+// typeof window.console.log //"function"
+// typeof this.console // proprio objeto window
+// var global = this; //Variavel que é referencia do objeto global
 
 //declaração de variáveis, funções, objetos
 var curso = "Metre JS Jedi";
