@@ -8,4 +8,9 @@ function soma(v1, v2){
     return v1 + v2;
 }
 
+function transporte(dias) {
+    return dias * 8.2
+}
+
 console.log(soma(20, 22));
+console.log(transporte(10))
