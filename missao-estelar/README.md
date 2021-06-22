@@ -2,7 +2,7 @@
 
 Olá Jovem Nerd Padawan!
 
-   Seja bem-vindo a equipe estratégica para Missões Estelares JS.
+Seja bem-vindo a equipe estratégica para Missões Estelares JS.
 O objetivo de nossas missões é fazer você vivenciar a prática e aventuras JS, desta forma você irá aprender a controlar a força JS para que ela sempre esteja com você!!!
 
 Faça um Fork do projeto Formação JavaScript Mestre Jedi e faça parte de nossa equipe.
@@ -38,9 +38,10 @@ Faça um Fork do projeto Formação JavaScript Mestre Jedi e faça parte de noss
 - https://github.com/tammenhain123
 - https://github.com/flaviusanderson
 - https://github.com/Thekote
-- https://github.com/silveirapdu 
+- https://github.com/silveirapdu
 - https://github.com/hugodias360
 - https://github.com/silveirapdu
 - https://github.com/matheusmoraesporto
 - https://github.com/SimoesDS
 - https://github.com/GlaucioMendonca
+- https://github.com/stileled
