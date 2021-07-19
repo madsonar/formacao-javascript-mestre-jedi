@@ -1,0 +1,10 @@
+- Java script
+- React
+- Angular
+- vue 
+- c#
+- java
+- PHP
+- Ember
+- CSS
+- HTML 5
