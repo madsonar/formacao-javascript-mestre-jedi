@@ -1,4 +1,4 @@
-# Tecnologias Preferidas
+# Minhas Tecnologias Preferidas
 ## JavaScript
 ## HTML5
 ## CSS3
