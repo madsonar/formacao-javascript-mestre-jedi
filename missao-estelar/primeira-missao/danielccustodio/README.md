@@ -1,21 +1,15 @@
 # Tecnologias Preferidas
-
 - Python
     - Django
     - Scrapy
     - Selenium
-
 - HTML
 - CSS
 - SASS
-
 - ElasticSearch
-
 - Pascal
 - Delphi
-
 ## Aprendendo ...
-
 - JavaScript
     - NodeJs
     - React
@@ -23,9 +17,7 @@
     - Angular
     - Gatsby
     - NextJS
-
 ## Interesse ...
-
 - PHP
 - Ruby
     - RubyOnRails
@@ -34,3 +26,5 @@
     - SQL
     - Oracle
     - Postgrees
+
+obs: Testando PullRequest
