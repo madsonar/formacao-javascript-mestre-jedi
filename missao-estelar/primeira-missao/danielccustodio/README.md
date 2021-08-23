@@ -26,5 +26,3 @@
     - SQL
     - Oracle
     - Postgrees
-
-obs: Testando PullRequest
