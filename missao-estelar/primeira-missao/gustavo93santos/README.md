@@ -1,3 +1,0 @@
--PL/SQL
--Java
--JavaScrip
