@@ -10,6 +10,7 @@ Faça um Fork do projeto Formação JavaScript Mestre Jedi e faça parte de noss
 ## Integrante da missão estelar (Informe seu GitHub e faça um Pull Request) 466f726d61e7e36f204a617661536372697074204d6573747265204a656469
 
 - https://github.com/madsonar
+- http://github/contera
 - https://github.com/alunojsjedi
 - https://github.com/fernandolimati
 - https://github.com/gdcamargo
