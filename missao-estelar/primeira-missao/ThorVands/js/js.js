@@ -1,4 +1,4 @@
-function eventoOnload(){
+function eventoOnLoad(){
     console.log("evento onload disparado !");
 }
 
