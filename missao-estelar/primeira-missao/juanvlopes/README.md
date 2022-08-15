@@ -1,5 +1,0 @@
-# Tecnologias
-
-- JavaScript
-- C#
-- HTML
