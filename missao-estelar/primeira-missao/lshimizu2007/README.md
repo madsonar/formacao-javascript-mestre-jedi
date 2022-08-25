@@ -1,0 +1,7 @@
+# MINHAS TECNOLOGIAS FAVORITAS
+
+* Java
+* C#
+* Flutter
+* JS
+* CSS/HTML5
