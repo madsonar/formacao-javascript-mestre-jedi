@@ -1,11 +1,14 @@
-RISONALDO ROCHA
-Minhas tecnologias preferidas
-HTML
-CSS
-Js
-Pretendo aprimorar
-PHP
-Angular
-NodeJs
-JQuery
-Ajax
+# RISONALDO ROCHA
+## Minhas tecnologias preferidas
+
+- HTML
+- CSS
+- Js
+
+## Pretendo aprimorar
+
+- PHP
+- Angular
+- NodeJs
+- JQuery
+- Ajax
