@@ -1,0 +1,1 @@
+minha tecnologia preferida é JAVASCRIPT.
