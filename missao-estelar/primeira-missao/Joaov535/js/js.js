@@ -6,5 +6,5 @@ function eventoOnload(){
 
 function eventoOnclick(){
     alert(missao)
-    console.log('Missão estelar realizada com sucesso!!!')
+    console.log('Missão estelar JS realizada com sucesso!!!')
 }
