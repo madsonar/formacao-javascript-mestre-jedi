@@ -2,4 +2,4 @@
 
 - CSS
 - HTML
-- JAvaScript
+- JavaScript
