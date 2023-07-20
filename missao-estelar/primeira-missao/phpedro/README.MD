@@ -1,2 +1,0 @@
-# C#
-## ASP.NET CORE
