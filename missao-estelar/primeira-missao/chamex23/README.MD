@@ -1,0 +1,8 @@
+- JavaScript
+- React
+- C#
+- Java
+- Vue
+- Angular
+- html5
+- Css
